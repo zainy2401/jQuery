@@ -45,11 +45,14 @@ p{
 #card3{background-color: #CB80AB;z-index: 1;}
 
 img{
-    width: 100%;
+    width: 70%;
     height: auto;
+    margin: 0 auto;
 }
 
 .main{
     position: fixed;
     z-index: -1;
+    width: 100%;
+    height: auto;
 }
