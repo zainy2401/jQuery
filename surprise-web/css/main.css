@@ -28,8 +28,8 @@ body{
     position: fixed;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: space-between;
+    justify-content: center;
+    align-items: center;
     
     transition: 1s ease-out;
 }
@@ -45,7 +45,7 @@ p{
 #card3{background-color: #CB80AB;z-index: 1;}
 
 img{
-    width: 70%;
+    width: 100%;
     height: auto;
     margin: 0 auto;
 }
